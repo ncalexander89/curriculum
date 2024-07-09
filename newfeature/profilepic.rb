@@ -4,4 +4,4 @@ class Profile
     end
 end
 
-Profile.new("pic")
+Profile.new("pics")
